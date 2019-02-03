@@ -390,5 +390,8 @@ go <- function(){
 
 system.time(go())
 
-#Output dtm list of similarities
+#Output dtm list of TF-IDF
 dtm
+
+#Output sim list of similarities
+sim
